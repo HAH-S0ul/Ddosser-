@@ -2,8 +2,8 @@
 import socket
 import threading
 
-ip = "enterhere"
-port = 1
+ip = "ip here"
+port = 80
 
 def flood():
 
